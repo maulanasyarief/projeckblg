@@ -1,0 +1,3 @@
+tugas perbaikan 
+1.preview post = jalan
+2.hapus komentar = jalan
